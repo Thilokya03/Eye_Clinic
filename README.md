@@ -50,7 +50,8 @@ Eye_Clinic/
 │   ├── model4_xgb_calibrated.joblib     # Calibrated XGBoost
 │   └── model4_meta_info.joblib          # Model metadata
 ├── Docs/
-│   └── Eye_Clinic.ipynb                 # Complete project notebook
+│   ├── Eye_Clinic.ipynb                 # Complete project notebook
+|   └── Eye_Clinic_Report.pdf            # Project Report
 ├── Models/train_df.csv                  # Training dataset metadata
 ├── Models/test_df.csv                   # Testing dataset metadata
 └── README.md                            # This file

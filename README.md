@@ -100,9 +100,9 @@ The hybrid approach leverages:
 
 This is a collaborative team project by:
 
-[Thilokya Angeesa](https://github.com/Thilokya03)
-[Nadil Kulathunga](https://github.com/nadilHesara)
-[Chamodh Nethsara](https://github.com/chamodhk) 
+- [Thilokya Angeesa](https://github.com/Thilokya03)
+- [Nadil Kulathunga](https://github.com/nadilHesara)
+- [Chamodh Nethsara](https://github.com/chamodhk) 
 
 ## 📝 License
 
